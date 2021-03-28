@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranshu_t14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranshu_t14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranshu-tiwari-4683a21b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pranshu-tiwari-4683a21b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranshu-tiwari-4683a21b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPSQKiJvLQUuAQ4KFauC93Q%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pranshu-tiwari-4683a21b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPSQKiJvLQUuAQ4KFauC93Q%3D%3D" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100017550133078" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100017550133078" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pranshut2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshut2001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranshut2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pranshut2001" height="30" width="40" /></a>
