@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshutiwari14&label=Profile%20views&color=0e75b6&style=flat" alt="pranshutiwari14" /> </p>
 
-- 🌱 I’m currently learning **C++,CSS.**
+- 🌱 I’m currently learning **C++,Java and Android Development.**
 
-- 💬 Ask me about **C++ and C.**
+- 💬 Ask me about **C++,C,HTML and CSS.**
 
 - 📫 How to reach me **pranshut2001@gmail.com**
 
